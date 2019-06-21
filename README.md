@@ -33,7 +33,7 @@ TARBALL="${REPO}/${PACKNAME}/archive/${VERSION}.tar.gz" ## Don't modify
 downloadsource "http://github.com/${TARBALL}" PPA ## Don't modify
 echo " complete" ## Don't modify
 ```
-3. Make a push request. or You can add by using the [issue page](https://github.com/BugHunterID/opspack/issues/new) with format : 
+3. Make a pull request. or You can add by using the [issue page](https://github.com/BugHunterID/opspack/issues/new) with format : 
 
 ```
 Title         : [Tools] name tools
